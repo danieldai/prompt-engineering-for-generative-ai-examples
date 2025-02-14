@@ -1,41 +1,43 @@
-# Prompt Engineering for Generative AI
+# 生成式AI提示词工程
 
-[Prompt Engineering for Generative AI](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) is a comprehensive guide co-authored for O'Reilly, focusing on the art of prompt engineering for GPT-4, Stable Diffusion and other generative AI models. Dive deep into the world of prompt engineering and LLMs (large language models) with our book, which is your ultimate resource for mastering the techniques and methodologies in this rapidly evolving field.
+[《生成式AI提示词工程》](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) 是由O'Reilly联合出版的一本综合性指南，专注于GPT-4、Stable Diffusion及其他生成式AI模型的提示词工程技术。本书深入探讨了提示工程和大语言模型（LLM，Large Language Models）的世界，是您掌握这一快速发展的领域中技术和方法的终极资源。
 
-Purchase the book:
+
+购买本书:
 - [Amazon - Paperback](https://www.amazon.co.uk/Prompt-Engineering-Generative-Ai-Future-proof/dp/109815343X/ref=sr_1_1?crid=GCADXJG08RP5&dib=eyJ2IjoiMSJ9.ZSvcKTX5SFS6pDUHoM26zT1XOCBCU41uPWn3nIoQbatOL6E9vqTDCv25N19V8lVzC9F3_vO20dFDAnEmWJczBc4GC19QqU4pRNHOn2v7ITRwsonOn9Yfx9A6Ol_deDdxuhfvS0p11WVJGaVGslYm7veK6_O0UYat2UhfcRjxBWD3iP6jmP6vjit845PyGK0cxbWJEJbnDg-0IQNqfSzhu4v8_m2rQrCMUGK7WE6nsrU.98ZGTw98P7ogymFCeXBvWJzQkdq-4xD9AAViRAlvRkU&dib_tag=se&keywords=prompt+engineering+for+generative+ai&qid=1709301926&sprefix=prompt+engineering+%2Caps%2C82&sr=8-1) 
 
 <a href="https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/" style="max-height: 500px; width: 300px;">
     <img src="images/logo.png" alt="Prompt Engineering for Generative AI" style="max-height: 500px; width: 300px;">
 </a>
 
-## Installation
+## 安装
 
-In order to ensure compatibility and stability, this project uses specific versions of libraries, tailored for Python version `3.9.12`. Given the rapid advancements in Large Language Models (LLMs) and AI frameworks, this version locking helps maintain a consistent and error-free environment.
+为了确保兼容性和稳定性，本项目使用了特定版本的库，并针对 Python 版本 `3.9.12` 进行了优化。鉴于大型语言模型（LLMs，Large Language Models）和人工智能框架的快速发展，锁定这些版本有助于保持环境的一致性和避免运行错误。
 
-There is a [requirements.txt](requirements.txt) file that contains all of the dependencies for the project. To install them, run the following command:
+项目包含一个 [requirements.txt](requirements.txt) 文件，其中列出了所有依赖项。要安装这些依赖项，请运行以下命令：
 
 ```bash
 pip install -r requirements.txt
 ```
 
-If you would prefer to use a virtual environment, you can create one with the following command:
+如果您希望使用虚拟环境，可以通过以下命令创建一个：
 
 ```bash
 python -m venv venv
 ```
 
-Then, activate the virtual environment:
+然后，激活虚拟环境：
 
 ```bash
 source venv/bin/activate
 ```
 
-Finally, install the dependencies:
+最后，安装依赖项：
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Content
 
